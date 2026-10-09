@@ -21,9 +21,9 @@
 </section>
 <p id="input-announcement" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></p><div id="notice" role="status" aria-live="polite" hidden></div>
 <dialog id="menu" aria-labelledby="menu-title"><form method="dialog" class="menu-shell">
-<header class="menu-header"><h2 id="menu-title">歇一会儿</h2><p id="menu-subtitle"></p></header>
-<div class="journey-sidebar"><div id="pause-actions"><button type="button" id="resume" class="menu-choice resume-choice" aria-label="继续旅程" title="继续旅程">${i(`play`)}<span class="resume-label">继续飞行</span><time id="travel-time" aria-label="旅行时长">00:00:00</time></button></div><div id="journey-summary"><span id="save-indicator" class="sr-only" role="img" aria-label="进度已保存"></span><p id="save-status" class="sr-only" role="status">进度已保存</p></div><button type="button" id="retry-save" class="menu-choice" hidden>重试保存</button></div>
-<nav class="pause-nav" aria-label="菜单面板" role="tablist"><button type="button" class="panel-tab" id="settings-tab" role="tab" data-view="settings" aria-controls="settings" aria-label="设置" title="设置" aria-selected="true"><span>设置</span></button><button type="button" class="panel-tab" id="help-tab" role="tab" data-view="help" aria-controls="help" aria-label="教程" title="教程" aria-selected="false"><span>教程</span></button></nav>
+<header class="menu-header sr-only"><h2 id="menu-title">歇一会儿</h2><p id="menu-subtitle" hidden></p></header>
+<div class="journey-sidebar"><div id="pause-actions"><button type="button" id="resume" class="menu-choice resume-choice" aria-label="继续旅程" title="继续旅程">${i(`play`)}<time id="travel-time" aria-label="旅行时长">00:00:00</time></button></div><div id="journey-summary"><span id="save-indicator" class="sr-only" role="img" aria-label="进度已保存"></span><p id="save-status" class="sr-only" role="status">进度已保存</p></div><button type="button" id="retry-save" class="menu-choice" hidden>重试保存</button></div>
+<nav class="pause-nav" aria-label="菜单面板" role="tablist"><button type="button" class="panel-tab" id="settings-tab" role="tab" data-view="settings" aria-controls="settings" aria-label="设置" title="设置" aria-selected="true">${i(`settings`)}</button><button type="button" class="panel-tab" id="help-tab" role="tab" data-view="help" aria-controls="help" aria-label="教程" title="教程" aria-selected="false">${i(`help`)}</button></nav>
 <div class="menu-pages">
 <section id="help" class="menu-page" role="tabpanel" aria-labelledby="help-tab" hidden>
 <h3>教程</h3>
