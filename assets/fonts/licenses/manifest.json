@@ -1,0 +1,79 @@
+[
+  {
+    "family": "Noto Sans",
+    "package": "@fontsource-variable/noto-sans",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosans"
+  },
+  {
+    "family": "Noto Sans SC",
+    "package": "@fontsource-variable/noto-sans-sc",
+    "version": "5.3.1",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanssc"
+  },
+  {
+    "family": "Noto Sans TC",
+    "package": "@fontsource-variable/noto-sans-tc",
+    "version": "5.3.1",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanstc"
+  },
+  {
+    "family": "Noto Sans JP",
+    "package": "@fontsource-variable/noto-sans-jp",
+    "version": "5.3.1",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosansjp"
+  },
+  {
+    "family": "Noto Sans KR",
+    "package": "@fontsource-variable/noto-sans-kr",
+    "version": "5.3.1",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanskr"
+  },
+  {
+    "family": "Noto Sans Arabic",
+    "package": "@fontsource-variable/noto-sans-arabic",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosansarabic"
+  },
+  {
+    "family": "Noto Sans Hebrew",
+    "package": "@fontsource-variable/noto-sans-hebrew",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanshebrew"
+  },
+  {
+    "family": "Noto Sans Thai",
+    "package": "@fontsource-variable/noto-sans-thai",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosansthai"
+  },
+  {
+    "family": "Noto Sans Devanagari",
+    "package": "@fontsource-variable/noto-sans-devanagari",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosansdevanagari"
+  },
+  {
+    "family": "Noto Sans Ethiopic",
+    "package": "@fontsource-variable/noto-sans-ethiopic",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosansethiopic"
+  },
+  {
+    "family": "Cormorant Garamond",
+    "package": "@fontsource-variable/cormorant-garamond",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/cormorantgaramond"
+  }
+]
